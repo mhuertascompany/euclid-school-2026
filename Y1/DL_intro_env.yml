@@ -1,0 +1,32 @@
+name: DL_intro_VHIO
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+
+  # core scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+
+  # Jupyter environment
+  - ipykernel
+  - ipython
+
+  # visualization
+  - matplotlib
+  - seaborn
+
+  # computer vision
+  - opencv
+
+  # install PyTorch via pip for consistency
+  - pip:
+      - torch
+      - torchinfo
+      - torchvision
+      - torchaudio
