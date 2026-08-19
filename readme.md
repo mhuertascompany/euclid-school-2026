@@ -1,9 +1,9 @@
-# EUCLID School 2025 — Notebooks & Environment
+# EUCLID School 2026 — Notebooks & Environment
 
-This repo contains the notebooks and data used in the EUCLID School 2025 lectures and labs.
+This repo contains the notebooks and data used in the EUCLID School 2026 lectures and labs.
 
 
-# 🔧 Setup: Euclid School 2025 (if you prefer to run on colab, skip)
+# 🔧 Setup: Euclid School 2026 (if you prefer to run on colab, skip)
 
 These notebooks are tested with **conda** (Miniforge / Mambaforge recommended).
 You have two ways to install:
@@ -37,8 +37,8 @@ You have two ways to install:
 ## 1) Clone the repo
 
 ```bash
-git clone https://github.com/mhuertascompany/euclid-school-2025.git
-cd euclid-school-2025
+git clone https://github.com/mhuertascompany/euclid-school-2026.git
+cd euclid-school-2026
 ```
 
 ---
@@ -184,7 +184,7 @@ If you can’t (or don’t want to) set up locally:
 1. Open [colab.research.google.com](https://colab.research.google.com) → **GitHub** tab → paste:
 
    ```
-   https://github.com/mhuertascompany/euclid-school-2025
+   https://github.com/mhuertascompany/euclid-school-2026
    ```
 2. Pick a notebook.
 3. Runtime → **Change runtime type** → Hardware accelerator: **GPU** → Save.
