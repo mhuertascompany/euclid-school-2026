@@ -11,3 +11,7 @@ sbi-logs/
 src/
 data/
 sbi_LtU_MHo_old.ipynb
+__pycache__/
+*.pyc
+*.ckpt
+Y2obs/notebooks/astroclip_demo/
