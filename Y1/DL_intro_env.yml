@@ -1,4 +1,4 @@
-name: DL_intro_VHIO
+name: DL_intro_EDE
 
 channels:
   - conda-forge
